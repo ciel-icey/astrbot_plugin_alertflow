@@ -1,9 +1,9 @@
-# ChronoPing - 智能定时提醒插件
+# alertflow - 智能定时提醒插件
 
 [![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-blue)](https://github.com/AstrBotDevs/AstrBot)
 [![License](https://img.shields.io/github/license/ciel-icey/astrbot_plugin_alertflow)](https://github.com/ciel-icey/astrbot_plugin_alertflow/blob/main/LICENSE)
 
-**ChronoPing** 是一款为 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 设计的智能定时提醒插件。它支持多种时间表达方式，能够在指定时刻向群聊或个人发送提醒，并灵活 @指定用户。通过可视化的配置面板，你还可以设置群组/个人白名单，精准控制功能使用权限。
+**alertflow** 是一款为 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 设计的智能定时提醒插件。它支持多种时间表达方式，能够在指定时刻向群聊或个人发送提醒，并灵活 @指定用户。通过可视化的配置面板，你还可以设置群组/个人白名单，精准控制功能使用权限。
 
 ---
 
