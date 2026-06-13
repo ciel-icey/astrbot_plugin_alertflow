@@ -1,0 +1,2 @@
+# astrbot_plugin_alertflow
+一个定时提醒工具，可搭配插件astrbot_plugin_llmAtTool实现@群友功能
