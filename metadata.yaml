@@ -1,5 +1,5 @@
 name: AlertFlow
 version: v1.0.0
-author: ciel_icey
+author: ciel-icey
 desc: 一个定时提醒工具，可搭配插件astrbot_plugin_llmAtTool实现@群友功能。
-repo: https://github.com/ciel_icey/astrbot_plugin_alertflow
+repo: https://github.com/ciel-icey/astrbot_plugin_alertflow
