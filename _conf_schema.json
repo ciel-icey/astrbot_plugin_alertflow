@@ -1,0 +1,32 @@
+{
+  "enable_group_whitelist": {
+    "description": "是否启用群组白名单。",
+    "type": "bool",
+    "default": false,
+    "hint": "开启后，非白名单群组中的指令将被忽略。"
+  },
+  "group_whitelist": {
+    "description": "群组白名单。填写群组ID，多个ID用英文逗号分隔。",
+    "type": "list",
+    "default": [],
+    "hint": "示例：123456789,987654321"
+  },
+  "enable_user_whitelist": {
+    "description": "是否启用个人白名单。",
+    "type": "bool",
+    "default": false,
+    "hint": "开启后，非白名单用户发送的指令将被忽略。"
+  },
+  "user_whitelist": {
+    "description": "个人白名单。填写用户ID，多个ID用英文逗号分隔。",
+    "type": "list",
+    "default": [],
+    "hint": "示例：123456789,987654321"
+  },
+  "max_reminder_days": {
+    "description": "允许设置的最大延迟天数（0 表示无限制）。超过此天数的提醒将被拒绝。",
+    "type": "int",
+    "default": 0,
+    "hint": "设置为 0 则无上限，推荐不超过 365。"
+  }
+}
